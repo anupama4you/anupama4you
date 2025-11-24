@@ -86,9 +86,9 @@ More details on **https://anupama.dev/**
 
 ## ⏱️ WakaTime Stats
 
-[![WakaTime](https://wakatime.com/badge/user/anupama4you.svg)](https://wakatime.com/@anupama4you)
+[![wakatime](https://wakatime.com/badge/user/cb6a00c8-095f-4c4b-82eb-4b4cb709ef75.svg)](https://wakatime.com/@cb6a00c8-095f-4c4b-82eb-4b4cb709ef75)
 
-![Anupama's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anupama4you&layout=compact&theme=radical)
+![Anupama's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@anupama4you&layout=compact&theme=radical)
 
 ---
 
